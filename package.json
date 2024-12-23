@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-router-dom": "^7.1.0",
+    "react-tilt": "^1.0.2",
+    "typewriter": "^9.2.0"
+  }
+}
